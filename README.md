@@ -3,7 +3,7 @@
 **LinkedIn :** https://www.linkedin.com/in/sumaiya-sulthana-906876137
 
 **Phonepe-Pulse-Data-Visualization-and-Exploration** 
-         The aim of this project is to develop a solution  to users with the ability to access and analyse data that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository.
+         The aim of this project is to develop a solution  to users with the ability to access and analyse data that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository to obtain insights and information that can be visualized in a user-friendly manner.
          
 **TOOLS AND LIBRARIES USED :** The process involves:
 
