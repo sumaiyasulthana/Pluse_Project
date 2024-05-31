@@ -34,4 +34,13 @@
 
 7.matplotlib.pyplot
 
+**FEATURES of my App:** The following functions are available in my Pluse Project. Retrieval of data Year wise,Quarter wise,State and District wise.Even more pincode wise
+Registered users details with on which brand of Mobile Transaction is been done.
+
+Collecting of data and store temporary in pandas dataframe.
+
+Migration of data from the dataframe to a SQLITE database directly for efficient querying and analysis.
+
+Search and retrieval of data from the SQLITE database using different search options
+
 **DOMAIN :** DATA SCIENCE
