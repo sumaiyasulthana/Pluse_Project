@@ -7,7 +7,7 @@
          
 **TOOLS AND LIBRARIES USED :** The process involves:
 
-**Data Extraction:** Scripting to clone the repository and collect data.
+**Data Extraction:** Scripting to clone the repository and collect data.(**Github Cloning**)
 
 **Data Transformation:** Using Python and Pandas to clean and structure the data.
 
